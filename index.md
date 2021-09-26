@@ -1,4 +1,4 @@
-#Hannah Hui
+# Hannah Hui
 ## B.S. Computer Engineering (2023)
 
 Hi, I'm Hannah! Welcome to my webpage. I am currently working on my bachelor's in **Computer Engineering** at **UCSD**.
@@ -36,14 +36,14 @@ Here are some nature places I enjoyed/would like to go visit in the future! To g
 - [ ] Hawaiʻi Volcanoes
 
 ### My Snapshots
-[Tahoe: Under a pier](pictures/Tahoe Pier.jpg)
+[Tahoe: Under a pier](./pictures/Tahoe Pier.jpg)
 
-[Tahoe: Skylandia Beach](pictures/Tahoe Lake Beach.jpg)
+[Tahoe: Skylandia Beach](./pictures/Tahoe Lake Beach.jpg)
 
-[Torrey Pines Beach](pictures/Torrey Pines Beach.jpg)
+[Torrey Pines Beach](./pictures/Torrey Pines Beach.jpg)
 
 
-####Thanks for stopping by my page!
+#### Thanks for stopping by my page!
 
 ![Bichi Mao Cat](https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/5267429/84456d95d2af49e1ab107ddf3266e2a0/2.png?token-time=2145916800&token-hash=cDr6LQzuHKfo1IckNve79nFNkg60h2Y7AtMi4nRSVKw%3D)
 
