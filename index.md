@@ -36,11 +36,11 @@ Here are some nature places I enjoyed/would like to go visit in the future! To g
 - [ ] Hawaiʻi Volcanoes
 
 ### My Snapshots
-[Tahoe: Under a pier](./pictures/'Tahoe Pier.jpg')
+[Tahoe: Under a pier](./pictures/TahoePier.jpg)
 
-[Tahoe: Skylandia Beach](./pictures/'Tahoe Lake Beach.jpg')
+[Tahoe: Skylandia Beach](./pictures/TahoeLakeBeach.jpg)
 
-[Torrey Pines Beach](./pictures/'Torrey Pines Beach.jpg')
+[Torrey Pines Beach](./pictures/TorreyPinesBeach.jpg)
 
 
 #### Thanks for stopping by my page!
