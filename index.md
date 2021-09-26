@@ -1,9 +1,10 @@
 # Hannah Hui
-## B.S. Computer Engineering (2023)
+## My Introduction
+### B.S. Computer Engineering (2023)
 
 Hi, I'm Hannah! Welcome to my webpage. I am currently working on my bachelor's in **Computer Engineering** at **UCSD**.
 
->There is a time for everything, and a season for every activity under the heavens. (Ecclesiastes 3:7)
+>There is a time for everything, and a season for every activity under the heavens. (Ecclesiastes 3:1)
 
 And I believe that right now as my time as a student, I should be always expanding my knowledge and experience. And most importantly, being both confident enough to believe in my own potential and humble enough to ask others for help and feedback.
 
